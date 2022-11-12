@@ -1,2 +1,6 @@
 This is my first GitHub Class
+
 New Local code
+
+This is remote new code
+
